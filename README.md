@@ -2,6 +2,9 @@
 
 ```diff
 @@Programming student@@
++ Living in Brazil
+! Computer Science
+# Python 
 ```
 
 <div> 
