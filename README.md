@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/vitoryl" width="30" height="30"> Han, Vitor</h1>
+<h1><img src="https://github.com/vitoryl.png" width="30" height="30"> Han, Vitor</h1>
 
 ```diff
 @@Programming student@@
