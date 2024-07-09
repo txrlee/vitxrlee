@@ -2,7 +2,7 @@
 
 ```diff
 @@Programming student at UBC@@
-! Aspring a career in Computer Science
++ Aspring a career in Computer Science
 # Focusing mainly in Python
 ```
 
