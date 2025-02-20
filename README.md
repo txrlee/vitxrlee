@@ -1,7 +1,7 @@
 <h1><img src="https://github.com/vitxrlee.png" width="30" height="30"> Han, Vitor</h1>
 
 ```diff
-@@Programming student at UBC@@
+@@Programming student@@
 + Aspring a career in Computer Science
 # Focusing mainly in Python
 ```
