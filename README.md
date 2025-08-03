@@ -1,9 +1,8 @@
 <h1><img src="https://github.com/vitxrlee.png" width="30" height="30"> Han, Vitor</h1>
 
 ```diff
-@@Programming student@@
-+ Aspring a career in Computer Science
-# Focusing mainly in Python
+@@Statistics student@@
++ Aspring a career in Data Science and Programming
 ```
 
 <div> 
